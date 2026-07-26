@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NeuralFraud — Financial Fraud Detection Platform
 
 A hybrid (supervised + unsupervised) machine learning system for detecting fraudulent
@@ -112,3 +113,6 @@ differentiators in the model (and the strongest talking points in an interview):
 - Graph-based analysis to detect fraud rings across linked accounts
 - SHAP-based per-transaction explainability
 - Deploy API to Render/Railway free tier + dashboard to Streamlit Community Cloud
+=======
+# -Financial-Fraud-Detection-System
+>>>>>>> 9ee12c90ca112efd6546c1d6585df39d20f0564e
