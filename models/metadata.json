@@ -1,0 +1,44 @@
+{
+  "feature_cols": [
+    "Transaction_Amount",
+    "Is_International",
+    "Previous_Transactions",
+    "Average_Spend",
+    "Account_Age_Days",
+    "Suspicious_Keyword",
+    "spend_ratio",
+    "is_spend_spike",
+    "is_new_account",
+    "is_low_history",
+    "txn_hour",
+    "is_night_txn",
+    "is_weekend",
+    "Merchant_Category_enc",
+    "Payment_Method_enc",
+    "Device_Type_enc",
+    "Location_enc"
+  ],
+  "categorical_cols": [
+    "Merchant_Category",
+    "Payment_Method",
+    "Device_Type",
+    "Location"
+  ],
+  "rf_roc_auc": 0.8679595317109143,
+  "logreg_roc_auc": 0.8847944321533924,
+  "fraud_rate_train": 0.0965,
+  "top_features": {
+    "txn_hour": 0.25766984276674826,
+    "Is_International": 0.20638213869834995,
+    "Suspicious_Keyword": 0.15609982692732455,
+    "is_night_txn": 0.11073144471386179,
+    "Transaction_Amount": 0.042774176012835854,
+    "Previous_Transactions": 0.041866505399470434,
+    "Average_Spend": 0.04095981255990672,
+    "Account_Age_Days": 0.03985888761273938,
+    "spend_ratio": 0.039511122739257935,
+    "Merchant_Category_enc": 0.01929299404581438
+  },
+  "n_train": 4000,
+  "n_test": 1000
+}

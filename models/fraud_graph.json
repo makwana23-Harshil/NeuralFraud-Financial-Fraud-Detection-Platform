@@ -1,0 +1,591 @@
+{
+  "nodes": [
+    "CUST7218",
+    "CUST7832",
+    "CUST6480",
+    "CUST3045",
+    "CUST8954",
+    "CUST5737",
+    "CUST2177",
+    "CUST3984",
+    "CUST5368",
+    "CUST9042",
+    "CUST7140",
+    "CUST8211",
+    "CUST9686",
+    "CUST1073",
+    "CUST8610",
+    "CUST8584",
+    "CUST1814",
+    "CUST9762",
+    "CUST9485",
+    "CUST9228",
+    "CUST8378",
+    "CUST4277",
+    "CUST9384",
+    "CUST7972",
+    "CUST2300",
+    "CUST6281",
+    "CUST2872",
+    "CUST8121",
+    "CUST5739",
+    "CUST2958",
+    "CUST3572",
+    "CUST8614",
+    "CUST3519",
+    "CUST7026",
+    "CUST7906",
+    "CUST3905",
+    "CUST1973",
+    "CUST6396",
+    "CUST8637",
+    "CUST4061",
+    "CUST5522",
+    "CUST2253",
+    "CUST8777",
+    "CUST7391",
+    "CUST5820",
+    "CUST5166",
+    "CUST5200",
+    "CUST1872",
+    "CUST2231",
+    "CUST4483",
+    "CUST1364",
+    "CUST5539",
+    "CUST3136",
+    "CUST4355",
+    "CUST7857",
+    "CUST3861",
+    "CUST8323",
+    "CUST2590",
+    "CUST4249",
+    "CUST6377",
+    "CUST2770",
+    "CUST9354",
+    "CUST3185",
+    "CUST5843"
+  ],
+  "edges": [
+    {
+      "source": "CUST7218",
+      "target": "CUST7832",
+      "weight": 1
+    },
+    {
+      "source": "CUST6480",
+      "target": "CUST3045",
+      "weight": 1
+    },
+    {
+      "source": "CUST8954",
+      "target": "CUST5737",
+      "weight": 1
+    },
+    {
+      "source": "CUST2177",
+      "target": "CUST3984",
+      "weight": 1
+    },
+    {
+      "source": "CUST5368",
+      "target": "CUST9042",
+      "weight": 1
+    },
+    {
+      "source": "CUST7140",
+      "target": "CUST8211",
+      "weight": 1
+    },
+    {
+      "source": "CUST9686",
+      "target": "CUST1073",
+      "weight": 1
+    },
+    {
+      "source": "CUST8610",
+      "target": "CUST8584",
+      "weight": 1
+    },
+    {
+      "source": "CUST1814",
+      "target": "CUST9762",
+      "weight": 1
+    },
+    {
+      "source": "CUST9485",
+      "target": "CUST9228",
+      "weight": 1
+    },
+    {
+      "source": "CUST9485",
+      "target": "CUST8378",
+      "weight": 1
+    },
+    {
+      "source": "CUST9228",
+      "target": "CUST8378",
+      "weight": 1
+    },
+    {
+      "source": "CUST4277",
+      "target": "CUST9384",
+      "weight": 1
+    },
+    {
+      "source": "CUST7972",
+      "target": "CUST2300",
+      "weight": 1
+    },
+    {
+      "source": "CUST6281",
+      "target": "CUST2872",
+      "weight": 1
+    },
+    {
+      "source": "CUST8121",
+      "target": "CUST5739",
+      "weight": 1
+    },
+    {
+      "source": "CUST2958",
+      "target": "CUST3572",
+      "weight": 1
+    },
+    {
+      "source": "CUST8614",
+      "target": "CUST3519",
+      "weight": 1
+    },
+    {
+      "source": "CUST7026",
+      "target": "CUST7906",
+      "weight": 1
+    },
+    {
+      "source": "CUST3905",
+      "target": "CUST1973",
+      "weight": 1
+    },
+    {
+      "source": "CUST6396",
+      "target": "CUST8637",
+      "weight": 1
+    },
+    {
+      "source": "CUST4061",
+      "target": "CUST5522",
+      "weight": 1
+    },
+    {
+      "source": "CUST2253",
+      "target": "CUST8777",
+      "weight": 1
+    },
+    {
+      "source": "CUST7391",
+      "target": "CUST5820",
+      "weight": 1
+    },
+    {
+      "source": "CUST5166",
+      "target": "CUST5200",
+      "weight": 1
+    },
+    {
+      "source": "CUST1872",
+      "target": "CUST2231",
+      "weight": 1
+    },
+    {
+      "source": "CUST4483",
+      "target": "CUST1364",
+      "weight": 1
+    },
+    {
+      "source": "CUST5539",
+      "target": "CUST3136",
+      "weight": 1
+    },
+    {
+      "source": "CUST4355",
+      "target": "CUST7857",
+      "weight": 1
+    },
+    {
+      "source": "CUST3861",
+      "target": "CUST8323",
+      "weight": 1
+    },
+    {
+      "source": "CUST2590",
+      "target": "CUST4249",
+      "weight": 1
+    },
+    {
+      "source": "CUST6377",
+      "target": "CUST2770",
+      "weight": 1
+    },
+    {
+      "source": "CUST6377",
+      "target": "CUST9354",
+      "weight": 1
+    },
+    {
+      "source": "CUST2770",
+      "target": "CUST9354",
+      "weight": 1
+    },
+    {
+      "source": "CUST3185",
+      "target": "CUST5843",
+      "weight": 1
+    }
+  ],
+  "rings": [
+    {
+      "ring_id": "ring_12",
+      "members": [
+        "CUST2300",
+        "CUST7972"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 416.78,
+      "avg_fraud_value_per_member": 208.39
+    },
+    {
+      "ring_id": "ring_25",
+      "members": [
+        "CUST1364",
+        "CUST4483"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 397.99,
+      "avg_fraud_value_per_member": 199.0
+    },
+    {
+      "ring_id": "ring_17",
+      "members": [
+        "CUST7026",
+        "CUST7906"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 388.15,
+      "avg_fraud_value_per_member": 194.07
+    },
+    {
+      "ring_id": "ring_31",
+      "members": [
+        "CUST3185",
+        "CUST5843"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 367.76,
+      "avg_fraud_value_per_member": 183.88
+    },
+    {
+      "ring_id": "ring_26",
+      "members": [
+        "CUST3136",
+        "CUST5539"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 365.04,
+      "avg_fraud_value_per_member": 182.52
+    },
+    {
+      "ring_id": "ring_9",
+      "members": [
+        "CUST1814",
+        "CUST9762"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 347.17,
+      "avg_fraud_value_per_member": 173.58
+    },
+    {
+      "ring_id": "ring_10",
+      "members": [
+        "CUST8378",
+        "CUST9228",
+        "CUST9485"
+      ],
+      "size": 3,
+      "total_edges": 3,
+      "total_fraud_value": 305.93,
+      "avg_fraud_value_per_member": 101.98
+    },
+    {
+      "ring_id": "ring_7",
+      "members": [
+        "CUST1073",
+        "CUST9686"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 294.0,
+      "avg_fraud_value_per_member": 147.0
+    },
+    {
+      "ring_id": "ring_6",
+      "members": [
+        "CUST7140",
+        "CUST8211"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 275.55,
+      "avg_fraud_value_per_member": 137.78
+    },
+    {
+      "ring_id": "ring_20",
+      "members": [
+        "CUST4061",
+        "CUST5522"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 247.66,
+      "avg_fraud_value_per_member": 123.83
+    },
+    {
+      "ring_id": "ring_30",
+      "members": [
+        "CUST2770",
+        "CUST6377",
+        "CUST9354"
+      ],
+      "size": 3,
+      "total_edges": 3,
+      "total_fraud_value": 240.57,
+      "avg_fraud_value_per_member": 80.19
+    },
+    {
+      "ring_id": "ring_18",
+      "members": [
+        "CUST1973",
+        "CUST3905"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 240.19,
+      "avg_fraud_value_per_member": 120.09
+    },
+    {
+      "ring_id": "ring_16",
+      "members": [
+        "CUST3519",
+        "CUST8614"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 227.71,
+      "avg_fraud_value_per_member": 113.86
+    },
+    {
+      "ring_id": "ring_29",
+      "members": [
+        "CUST2590",
+        "CUST4249"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 223.3,
+      "avg_fraud_value_per_member": 111.65
+    },
+    {
+      "ring_id": "ring_4",
+      "members": [
+        "CUST2177",
+        "CUST3984"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 196.48,
+      "avg_fraud_value_per_member": 98.24
+    },
+    {
+      "ring_id": "ring_23",
+      "members": [
+        "CUST5166",
+        "CUST5200"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 187.62,
+      "avg_fraud_value_per_member": 93.81
+    },
+    {
+      "ring_id": "ring_27",
+      "members": [
+        "CUST4355",
+        "CUST7857"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 179.61,
+      "avg_fraud_value_per_member": 89.8
+    },
+    {
+      "ring_id": "ring_13",
+      "members": [
+        "CUST2872",
+        "CUST6281"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 177.47,
+      "avg_fraud_value_per_member": 88.73
+    },
+    {
+      "ring_id": "ring_8",
+      "members": [
+        "CUST8584",
+        "CUST8610"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 136.5,
+      "avg_fraud_value_per_member": 68.25
+    },
+    {
+      "ring_id": "ring_2",
+      "members": [
+        "CUST3045",
+        "CUST6480"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 129.06,
+      "avg_fraud_value_per_member": 64.53
+    },
+    {
+      "ring_id": "ring_3",
+      "members": [
+        "CUST5737",
+        "CUST8954"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 120.24,
+      "avg_fraud_value_per_member": 60.12
+    },
+    {
+      "ring_id": "ring_14",
+      "members": [
+        "CUST5739",
+        "CUST8121"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 100.22,
+      "avg_fraud_value_per_member": 50.11
+    },
+    {
+      "ring_id": "ring_21",
+      "members": [
+        "CUST2253",
+        "CUST8777"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 97.18,
+      "avg_fraud_value_per_member": 48.59
+    },
+    {
+      "ring_id": "ring_1",
+      "members": [
+        "CUST7218",
+        "CUST7832"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 93.34,
+      "avg_fraud_value_per_member": 46.67
+    },
+    {
+      "ring_id": "ring_22",
+      "members": [
+        "CUST5820",
+        "CUST7391"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 92.81,
+      "avg_fraud_value_per_member": 46.41
+    },
+    {
+      "ring_id": "ring_24",
+      "members": [
+        "CUST1872",
+        "CUST2231"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 90.27,
+      "avg_fraud_value_per_member": 45.14
+    },
+    {
+      "ring_id": "ring_19",
+      "members": [
+        "CUST6396",
+        "CUST8637"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 88.6,
+      "avg_fraud_value_per_member": 44.3
+    },
+    {
+      "ring_id": "ring_5",
+      "members": [
+        "CUST5368",
+        "CUST9042"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 78.86,
+      "avg_fraud_value_per_member": 39.43
+    },
+    {
+      "ring_id": "ring_28",
+      "members": [
+        "CUST3861",
+        "CUST8323"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 55.57,
+      "avg_fraud_value_per_member": 27.79
+    },
+    {
+      "ring_id": "ring_11",
+      "members": [
+        "CUST4277",
+        "CUST9384"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 31.55,
+      "avg_fraud_value_per_member": 15.78
+    },
+    {
+      "ring_id": "ring_15",
+      "members": [
+        "CUST2958",
+        "CUST3572"
+      ],
+      "size": 2,
+      "total_edges": 1,
+      "total_fraud_value": 27.51,
+      "avg_fraud_value_per_member": 13.76
+    }
+  ],
+  "min_ring_size": 2
+}
