@@ -7,7 +7,7 @@ financial transactions, with a FastAPI backend and a Power BI–style interactiv
 Built as a portfolio project demonstrating: ETL pipeline design, behavioral feature
 engineering, imbalanced-classification modeling, anomaly detection, REST API design,
 and dashboard/data-visualization skills.
-
+Deployed link:- https://neuralfraud-financial-fraud-detection-platform-brurmt8uyssvtgv.streamlit.app/
 ---
 
 ## Why "hybrid" detection?
